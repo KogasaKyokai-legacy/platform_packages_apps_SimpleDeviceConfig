@@ -16,7 +16,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.protonaosp.deviceconfig">
+    package="org.kogasakyokai.deviceconfig">
 
     <uses-permission android:name="android.permission.READ_DEVICE_CONFIG" />
     <uses-permission android:name="android.permission.WRITE_DEVICE_CONFIG" />

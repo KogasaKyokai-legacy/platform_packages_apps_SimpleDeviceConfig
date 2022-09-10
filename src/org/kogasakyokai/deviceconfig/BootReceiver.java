@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.protonaosp.deviceconfig;
+package org.kogasakyokai.deviceconfig;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
